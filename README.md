@@ -33,6 +33,13 @@ Follow the voice prompts to interact with the assistant.
 - The script requires an internet connection to access various APIs and services.
 - Be mindful of API rate limits and usage quotas.
 
+## Future Updates 
+ - To read and write whatsapp messages dynamically and directly
+ - To read emails and reply to them.
+ - To add vision capabilities to analyse image and give results (Also use camera on command to use it)
+ - Also to use both gemini-pro 1.0 and gemini-pro vision 1.0 simultaneously and tp create a mechanism to navigate the desktop screen and complete the task.
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
