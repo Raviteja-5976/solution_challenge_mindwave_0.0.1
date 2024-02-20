@@ -38,12 +38,12 @@ listener = sr.Recognizer()
 engine = pyttsx3.init()
 
 # Configure Google Gemini API key
-genai.configure(api_key="AIzaSyBY0rQpSlblpJ5WOsTRROC50Sw8nVXOg6s")
+genai.configure(api_key="GEMINI_API_KEY")
 
 # Weather API key
-wh_api_key = "8566ae627bf8f3d9f6aa9eea7aebec3d"
-
-openai_api_key = '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'
+wh_api_key = "OPEN_WEATHER_API_KEY"
+# Openai API key
+openai_api_key = 'OPENAI_API_KEY'
 
 client = OpenAI(api_key= openai_api_key)
 
