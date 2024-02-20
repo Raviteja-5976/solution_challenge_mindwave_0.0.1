@@ -1,0 +1,12 @@
+# pip install -r requirements.txt
+
+smtplib
+speech_recognition==3.8.1
+pyttsx3==2.90
+Pillow==9.0.1
+requests==2.26.0
+opencv-python==4.5.5.62
+pyautogui==0.9.53
+keyboard==0.13.5
+pywhatkit==5.2
+python-dotenv==0.19.2
